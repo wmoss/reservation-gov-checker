@@ -1,0 +1,4 @@
+cron:
+- description: "check availability"
+  url: /check-availability
+  schedule: every 10 mins
